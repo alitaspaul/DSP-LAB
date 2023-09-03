@@ -1,5 +1,5 @@
  # DIGITAL SIGNAL PROCESSING LAB FOR THE FIFTH SEMESTER
-## Created by Alita Sabu Paul - ECA05
+
 
  Experiments:
  
