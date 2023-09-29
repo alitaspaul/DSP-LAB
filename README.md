@@ -12,5 +12,9 @@
  4.[Auto correlation and Cross correlation](https://github.com/alitaspaul/DSP-LAB/commit/40efa3d9ed4f6d8e5a936ca894be8fbb9f1256c9)
 
  5.[Discrete Fourier transform](https://github.com/alitaspaul/DSP-LAB/blob/master/Experiment5_DSP.ipynb)
+ 
+ 6.[Inverse Discrete Fourier transform](https://github.com/alitaspaul/DSP-LAB/blob/master/Experiment6_DSP.ipynb)
+
+ 7.[Properties of DFT](https://github.com/alitaspaul/DSP-LAB/blob/master/Experiment7_DSP.ipynb)
 
 
