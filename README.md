@@ -17,4 +17,6 @@
 
  7.[Properties of DFT](https://github.com/alitaspaul/DSP-LAB/blob/master/Experiment7_DSP.ipynb)
 
+ 8.[Linear convolution using Circular convolution](https://github.com/alitaspaul/DSP-LAB/blob/master/Experiment8_DSP.ipynb)
+
 
